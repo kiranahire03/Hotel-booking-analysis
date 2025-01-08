@@ -2,7 +2,7 @@
 
 ## **Abstract:**
 
-The Hotel industry like any other business opens up socioeconomic opportunities for both owner and customer. It has the function of providing hospitality services to customers. These customers can be travelers, foreigners, businessmen, tourists, visitors, etc. Customers are mostly constrained in trying to get a room to pass the night, as the usual practice is to look for a hotel when you have arrived in the particular location, walk in and find out whether there is a vacant room.
+The Hotel industry like any other business opens up socioeconomic opportunities for both owner and customer. It has the function of providing hospitality services to customers. These customers can be travelers, foreigners, businessmen, tourists, visitors etc. Customers are mostly constrained in trying to get a room to pass the night, as the usual practice is to look for a hotel when you have arrived in the particular location, walk in and find out whether there is a vacant room.
 We were provided with a dataset that states all the information about a customer like Which type customer it is, number of adults and children from which country he/she belongs and so on. My analysis help to understand what type of hotel people mostly preferred, factors that govern the hotel bookings, best time to book a hotel room and so on.
            
 
